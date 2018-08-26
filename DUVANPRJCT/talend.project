@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
   <TalendProperties:Project xmi:id="_a5oEwalvEeiUOfR7RYnwfA" label="DuvanPrjct" description="Please don't delete me,  Duvan will be happy!  :)" language="java" technicalLabel="DUVANPRJCT" author="_a5oEwqlvEeiUOfR7RYnwfA" productVersion="Talend Cloud Real-Time Big Data Platform-7.0.1.20180411_1414" url="{&quot;location&quot;:&quot;https://github.com/Duvanseg/git-training&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <technicalStatus xmi:id="_cVb7cKlvEeiUOfR7RYnwfA" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_cVb7calvEeiUOfR7RYnwfA" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_cVb7cqlvEeiUOfR7RYnwfA" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_cVPuMKlvEeiUOfR7RYnwfA" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_cVPuMalvEeiUOfR7RYnwfA" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_cVPuMqlvEeiUOfR7RYnwfA" label="validated" code="VAL"/>
     <migrationTask xmi:id="_cTjsIKlvEeiUOfR7RYnwfA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cTjsIalvEeiUOfR7RYnwfA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cTjsIqlvEeiUOfR7RYnwfA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
