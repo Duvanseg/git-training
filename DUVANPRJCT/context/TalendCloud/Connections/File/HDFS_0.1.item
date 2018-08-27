@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_JwN9QKnyEeiUOfR7RYnwfA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_JwN9QanyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_namenode_uri" prompt="connection_hdfs_namenode_uri?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9QqnyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_namenode_principal" prompt="connection_hdfs_namenode_principal?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9Q6nyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_username" prompt="connection_hdfs_username?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9RKnyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_property_1" prompt="connection_hdfs_hadoop_property_1?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9RanyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_value_1" prompt="connection_hdfs_hadoop_value_1?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9RqnyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_property_2" prompt="connection_hdfs_hadoop_property_2?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9R6nyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_value_2" prompt="connection_hdfs_hadoop_value_2?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9SKnyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_property_3" prompt="connection_hdfs_hadoop_property_3?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9SanyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_value_3" prompt="connection_hdfs_hadoop_value_3?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9SqnyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_property_4" prompt="connection_hdfs_hadoop_property_4?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9S6nyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_value_4" prompt="connection_hdfs_hadoop_value_4?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9TKnyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_property_5" prompt="connection_hdfs_hadoop_property_5?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9TanyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_value_5" prompt="connection_hdfs_hadoop_value_5?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9TqnyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_property_6" prompt="connection_hdfs_hadoop_property_6?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9T6nyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_value_6" prompt="connection_hdfs_hadoop_value_6?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9UKnyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_property_7" prompt="connection_hdfs_hadoop_property_7?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9UanyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_value_7" prompt="connection_hdfs_hadoop_value_7?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9UqnyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_property_8" prompt="connection_hdfs_hadoop_property_8?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JwN9U6nyEeiUOfR7RYnwfA" comment="" name="connection_hdfs_hadoop_value_8" prompt="connection_hdfs_hadoop_value_8?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
