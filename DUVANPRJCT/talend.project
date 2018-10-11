@@ -571,4 +571,8 @@
     <migrationTask xmi:id="_daoo9KlvEeiUOfR7RYnwfA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_a5oEwqlvEeiUOfR7RYnwfA" login="dseguracamelo@ala.talend.com" firstName="Duvan" lastName="Segura Camelo" type="DQ"/>
+  <TalendProperties:User xmi:id="_37I8Uc2DEeiSGrW4Rd1KFg" login="alacombe@ala.talend.com" firstName="Adrien" lastName="Lacombe" type="DQ"/>
+  <TalendProperties:User xmi:id="_37I8Us2DEeiSGrW4Rd1KFg" login="ececilio@ala.talend.com" firstName="Elmer" lastName="Cecilio" type="DQ"/>
+  <TalendProperties:User xmi:id="_37I8U82DEeiSGrW4Rd1KFg" login="cklaus@ala.talend.com" firstName="Chris" lastName="Klaus" type="DQ"/>
+  <TalendProperties:User xmi:id="_37I8VM2DEeiSGrW4Rd1KFg" login="dgillett@ala.talend.com" firstName="David" lastName="Gillett" type="DQ"/>
 </xmi:XMI>
