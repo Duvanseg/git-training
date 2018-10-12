@@ -12,6 +12,7 @@
     <module>code/routines</module>
     <module>jobs/process/example2_0.1</module>
     <module>jobs/joblets/joblet_0.1</module>
+    <module>jobs/process/test3_0.1</module>
   </modules>
   <properties>
     <talend.project.name>DUVANPRJCT</talend.project.name>
