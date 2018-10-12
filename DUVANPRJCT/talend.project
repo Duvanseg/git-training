@@ -103,6 +103,7 @@
       <relatedItems xmi:id="_u2bZj85SEeiE2eIZ3GWfIA" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_u2bZkM5SEeiE2eIZ3GWfIA" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_9YFsIM5SEeiE2eIZ3GWfIA" id="_2H408M5SEeiE2eIZ3GWfIA" version="Latest" type="joblet"/>
+      <relatedItems xmi:id="_EW-e8M5VEeiE2eIZ3GWfIA" id="_2gfQQM5UEeiE2eIZ3GWfIA" version="Latest" type="context"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_2XJY8M5SEeiE2eIZ3GWfIA">
       <baseItem xmi:id="_2XJY8c5SEeiE2eIZ3GWfIA" id="_2H408M5SEeiE2eIZ3GWfIA" version="0.1" type="joblet"/>
